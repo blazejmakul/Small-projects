@@ -1,0 +1,11 @@
+-Owoce
+Jabłka
+Pomarańcze
+Banan
+-Chemia
+Domestos
+CIF
+-Makarony
+Penne
+-TEst
+test 2
